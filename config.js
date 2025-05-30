@@ -1,4 +1,4 @@
 console.log("Config.js");
-console.log("version3");
+console.log("version1");
 
 //cd ~/Desktop/Git-Tutorial            cmd 
